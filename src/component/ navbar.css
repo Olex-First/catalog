@@ -1,17 +1,12 @@
 .btn-search  {
-    /*border: gray solid 1px;*/
-    /*border-radius: 50px;*/
-    /*border-left: none;*/
     position: absolute;
 }
-.slider-type {
 
-}
 .input-search {
     border: gray solid 1px;
     border-radius: 50px;
     height: 2.9em;
     width: 20em;
     padding-left: 4rem;
-;
+
 }

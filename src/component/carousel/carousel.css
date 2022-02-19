@@ -1,0 +1,33 @@
+.round-slider {
+    background: #FFFFFF;
+    box-shadow: 0 5px 20px rgba(37, 77, 13, 0.3);
+    width: 200px !important;
+    height: 200px !important;
+    border-radius: 50%;
+    margin: 2rem 1rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.img-slider {
+    margin-top: -5rem;
+}
+.img-slider-two {
+margin-top: -0.6rem;
+}
+.img-slider-three {
+    margin-top: -1.6rem;
+
+}
+.img-slider-four {
+    margin-top: -3.5rem;
+    margin-left: -1.9rem;
+}
+.main-text-three {
+    margin: 1.8rem;
+
+}
+
+a:focus {
+    color: orange;
+}
