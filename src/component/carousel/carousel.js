@@ -19,7 +19,6 @@ export default class Responsive extends Component {
                         slidesToShow: 3,
                         slidesToScroll: 3,
                         infinite: true,
-                        dots: true
                     }
                 },
                 {
@@ -28,7 +27,6 @@ export default class Responsive extends Component {
                         slidesToShow: 2,
                         slidesToScroll: 2,
                         infinite: true,
-                        dots: true
                     }
                 },
                 {

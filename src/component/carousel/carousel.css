@@ -25,9 +25,10 @@ margin-top: -0.6rem;
 }
 .main-text-three {
     margin: 1.8rem;
-
 }
-
+a {
+    color: #254D0D;
+}
 a:focus {
     color: orange;
 }

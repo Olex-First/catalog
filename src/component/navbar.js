@@ -15,7 +15,7 @@ function Navigation() {
                     style={{ maxHeight: '100px' }}
                     navbarScroll
                 >
-                    <Nav.Link href="#action1">Kaталог</Nav.Link>
+                    <Nav.Link  href="#action1">Kaталог</Nav.Link>
                     <Nav.Link href="#action2">Контакты</Nav.Link>
                     <NavDropdown title="Статьи о растениях" id="navbarScrollingDropdown">
                         <NavDropdown.Item href="#action3">Пажитник</NavDropdown.Item>
